@@ -1,0 +1,5 @@
+# Ignore personal workspace layout and history
+*.sublime-workspace
+
+# OPTIONAL: Uncomment the line below only if you want to ignore project settings too
+# *.sublime-project
