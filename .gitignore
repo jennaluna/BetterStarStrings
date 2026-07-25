@@ -2,4 +2,4 @@
 *.sublime-workspace
 
 # OPTIONAL: Uncomment the line below only if you want to ignore project settings too
-# *.sublime-project
+*.sublime-project
